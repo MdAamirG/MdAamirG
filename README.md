@@ -81,10 +81,6 @@
 ## 📈 GitHub Stats & Coding DNA
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAamirG&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAamirG&layout=compact&theme=radical&hide_border=true)
-
 ![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Top_2%25_(164/8365)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![Buildspace](https://img.shields.io/badge/Buildspace-x1-purple?style=for-the-badge)
 
