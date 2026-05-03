@@ -81,8 +81,8 @@
 ## 📈 GitHub Stats & Coding DNA
 
 <div align="center">
-  
-[GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Top_2%25_(164/8365)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Top_2%25_(164/8365)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![Buildspace](https://img.shields.io/badge/Buildspace-x1-purple?style=for-the-badge)
 
 </div>
