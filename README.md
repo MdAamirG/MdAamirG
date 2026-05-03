@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mdaamir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mdaamirg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mdaamir.g@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="./MohamedAamir.pdf"><img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
