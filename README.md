@@ -1,32 +1,55 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Mohamed+Aamir;AI+Software+Engineer;Top+2%25+Coder;I+Ship+Production+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Mohamed+Aamir;AI+Software+Engineer;Top+2%25+Coder+%7C+Builder;Let's+Build+AI+That+Ships" alt="Typing animation" />
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/mdaamir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mdaamir.g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mdaamir.g@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="./MohamedAamir.pdf"><img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Top_2%25_(164/8365)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/buildspace-builder-7B2FBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Top_2%25_(164%2F8365)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/buildspace-builder-%237B2FBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS_Cloud-Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 About Me  
-> Final‑year IT at CEG, Anna University. I build production‑grade AI systems—RAG pipelines, serverless backends, and real‑time diagnostic tools. Open to internships & new‑grad roles.
+## 🧠 About Me
+
+🎓 I'm a **final‑year IT undergrad** at College of Engineering Guindy, Anna University.  
+🏆 I ranked **164 out of 8,365** on GeeksforGeeks — top 2%.  
+⚡ I don't just learn AI; I **architect production‑grade AI systems** — retrieval‑augmented generation, serverless media backends, and real‑time diagnostic tools.  
+💬 Ask me about **RAG pipelines, system design, serverless (AWS), or shipping LLM apps.**  
+📫 **Right now:** I’m open to internships / new‑grad roles where I can build AI‑first products from zero to production.
 
 ---
 
-### ⚔️ Tech Stack  
+## ⚔️ Tech Arsenal
 
-`Python` `C++` `JavaScript` `SQL` `LLMs` `RAG` `Prompt Engineering` `Transformers` `FAISS` `CNNs`  
-`FastAPI` `Flask` `AWS Lambda` `S3` `DynamoDB` `Firebase` `Docker` `Git` `GitHub Actions`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/LLMs-Transformers-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Information_Retrieval-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Vector_Search-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNNs-Deep_Learning-red?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
@@ -41,25 +64,18 @@
 
 ---
 
-### 📈 Signature Stats
+## 🧠 Mindset
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdAamirG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MdAamirG&theme=onedark&row=1&column=4&no-frame=true" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-15+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total_Commits-500+-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
-</div>
+> *“The best engineers don’t just write code — they own problems end to end. I build systems that work in the real world, not just in a notebook.”*
 
 ---
 
-### 🤝 Let's Build Something  
+## 🤝 Let’s Connect
+
+I’m actively looking for **internships & new‑grad roles** in AI engineering, backend, or systems.  
 📧 **mdaamir.g@gmail.com**  
 💼 [linkedin.com/in/mdaamir](https://linkedin.com/in/mdaamir)  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MdAamirG&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MdAamirG&color=blueviolet&style=for-the-badge" />
 </p>
